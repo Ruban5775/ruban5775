@@ -198,8 +198,6 @@ Responsive educational platform developed using React, PHP, MySQL and Make.com.
 
 ---
 
----
-
 # 🤖 Featured Automation Projects
 
 ## 🗺️ Tamil Nadu Business Lead Scraper
@@ -258,6 +256,7 @@ An **n8n-based AI workflow** that analyzes a candidate's resume against a job de
 
 📂 **Repository:** `n8n-ai-resume-analyzer`
 
+---
 
 # 🤖 AI & Business Automation
 
