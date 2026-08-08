@@ -9,9 +9,9 @@
 <br/>
 
 <a href="https://persyntra.com/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-persyntra.com-1A73E8?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-1A73E8?style=for-the-badge" alt="Portfolio"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rubanm--/">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -150,6 +150,8 @@ Full-stack production website developed for **Your Perfect Eventz Management, Sa
 - 📩 Contact & Get Quote system
 - 📧 PHP Mail integration
 - 🗄️ MySQL database
+
+🌐 **Live:** https://ypeventz.com/
 
 📂 **Repository:** `your-perfect-eventz`
 
@@ -336,7 +338,7 @@ I'm open to opportunities in:
 <div align="center">
 
 <a href="https://persyntra.com/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-persyntra.com-1A73E8?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-1A73E8?style=for-the-badge" alt="Portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
