@@ -1,80 +1,109 @@
+<div align="center">
+
 # 👋 Hi, I'm Ruban M
 
-### React Frontend Developer | JavaScript | Full-Stack Integration | AI Automation
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=760&lines=React+Frontend+Developer;Full-Stack+Web+Application+Developer;AI+%26+Business+Automation+Builder;Connecting+Systems.+Automating+Possibilities." alt="Typing SVG"/>
+</a>
 
-I build modern, responsive web applications using **React and JavaScript**, with practical experience in **PHP, REST APIs, MySQL, cloud services, and AI-powered workflow automation**.
+<br/>
 
-I enjoy turning ideas into production-ready digital products — from responsive frontend interfaces and admin dashboards to backend integrations and automated business workflows.
+<a href="https://persyntra.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-persyntra.com-1A73E8?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-🌐 **Portfolio:** https://persyntra.com/
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Frontend Developer focused on **React and JavaScript**
-- ⚛️ Experienced in building responsive, component-based web applications
-- 🔗 Comfortable integrating **REST APIs and backend services**
-- 🛠️ Practical experience with **PHP, MySQL, and full-stack application development**
-- 🤖 Building **AI-powered business automation workflows**
-- ☁️ Experience with cloud services, deployment, and third-party API integrations
-- 🚀 Interested in building scalable products and solving real-world business problems
+I'm a **React Frontend Developer** focused on building modern, responsive, production-ready web applications.
+
+My core strength is frontend development with **React and JavaScript**, with practical experience across **PHP, REST APIs, MySQL, cloud services, third-party integrations, and AI-powered workflow automation**.
+
+```text
+React / JavaScript
+        ↓
+REST APIs / Backend Integration
+        ↓
+MySQL / Firebase / MongoDB
+        ↓
+Cloud / Deployment / Third-Party Services
+        ↓
+AI / n8n / Make.com / Business Automation
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
+
+| Area | Focus |
+|---|---|
+| 🎨 Frontend | React, JavaScript, TypeScript, responsive UI, component architecture |
+| 🔗 Backend Integration | PHP, Java/Spring Boot, REST APIs, form processing |
+| 🗄️ Databases | MySQL, MongoDB, Firebase |
+| 🤖 AI & Automation | n8n, Make.com, Gemini API, webhooks, workflow automation |
+| ☁️ Cloud | AWS, Hostinger, Firebase, Cloudinary |
+| 🧰 Tools | Git, GitHub, Postman, Vite, VS Code, IntelliJ IDEA |
+
+---
+
+# 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite"/>
+</p>
 
-### ✨ UI & Frontend Libraries
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Also:** Framer Motion · React Three Fiber · Three.js · tsParticles · shadcn/ui · React Hook Form · Zod
 
 ### ⚙️ Backend & APIs
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,php"/>
+</p>
+
+**Also:** REST APIs · JSON · CRUD APIs · API Integration · Server-side Form Processing
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
 
 ### 🤖 AI & Automation
+**n8n · Make.com · Google Gemini API · Webhooks · Google Sheets · Excel · REST APIs**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+### ☁️ Cloud, Media & Tools
 
-- AI Workflow Automation
-- AI API Integration
-- Google Gemini API
-- Webhooks
-- Business Process Automation
-- Lead Generation Automation
-- Google Sheets Automation
-- API-based Workflows
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,postman,vscode,idea"/>
+</p>
 
-### ☁️ Cloud & Tools
+**Also:** Hostinger · Cloudinary · XAMPP · Domain/DNS · SSL/HTTPS
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+---
+
+# 📊 Skill Focus
+
+> These bars represent my **current development focus**, not formal proficiency scores.
+
+```text
+React / Frontend Development      ████████████████████  100%
+JavaScript / UI Engineering       ███████████████████░   95%
+REST API Integration               ██████████████████░░   90%
+PHP / Backend Integration          █████████████████░░░   85%
+MySQL / Database Development       █████████████████░░░   85%
+AI / Workflow Automation           ████████████████░░░░   80%
+Cloud / Deployment                 ███████████████░░░░░   75%
+Java / Spring Boot                 ██████████████░░░░░░   70%
+```
 
 ---
 
@@ -84,25 +113,23 @@ I enjoy turning ideas into production-ready digital products — from responsive
 
 **AI Automation & Digital Solutions Company Website**
 
-A production full-stack platform built using React, TypeScript, PHP, MySQL, and Make.com automation.
+Production full-stack platform developed for **Persyntra Solutions**.
 
-### Highlights
+`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `React Three Fiber` `PHP` `MySQL` `Make.com`
 
-- React + TypeScript frontend
-- Tailwind CSS
-- Framer Motion animations
-- React Three Fiber 3D experiences
-- Responsive UI
-- PHP REST APIs
-- MySQL database
-- Make.com workflow automation
-- Automated email notifications
-- Excel-based contact data storage
-- Production deployment
+- ⚛️ React + TypeScript frontend
+- ✨ Advanced animations and interactive 3D
+- 🔗 PHP REST API integration
+- 🗄️ MySQL database
+- 🤖 Make.com contact workflow
+- 📧 Automated emails to contact and company
+- 📊 Automated Excel contact-data storage
+- 🔎 SEO configuration
+- ☁️ Production deployment
 
 🌐 **Live:** https://persyntra.com/
 
-📂 **Repository:** [persyntra-website](https://github.com/YOUR_USERNAME/persyntra-website)
+📂 **Repository:** `persyntra-website`
 
 ---
 
@@ -110,48 +137,45 @@ A production full-stack platform built using React, TypeScript, PHP, MySQL, and 
 
 **Event Management Client Website**
 
-A full-stack event management platform developed for a real-world client.
+Full-stack production website developed for **Your Perfect Eventz Management, Salem**.
 
-### Highlights
+`React` `PHP` `MySQL` `Cloudinary` `PHP Mail` `REST APIs`
 
-- React frontend
-- PHP backend
-- MySQL database
-- Custom React Admin Panel
-- CRUD operations
-- Cloudinary media management
-- Event gallery management
-- Contact & quotation system
-- PHP Mail integration
-- Production deployment
+- ⚛️ React frontend
+- 📱 Responsive design
+- 🔐 Custom React Admin Panel
+- 🔄 CRUD-based content management
+- 🖼️ Cloudinary media management
+- 📸 Event gallery management
+- 📩 Contact & Get Quote system
+- 📧 PHP Mail integration
+- 🗄️ MySQL database
 
-🌐 **Live:** https://yourperfecteventz.com/
-
-📂 **Repository:** [your-perfect-eventz](https://github.com/YOUR_USERNAME/your-perfect-eventz)
+📂 **Repository:** `your-perfect-eventz`
 
 ---
 
 ## 🎓 The Krishna Academy
 
-**Educational Platform**
+**Educational Website & Enquiry Automation**
 
-A responsive educational website developed for a client using React, PHP, MySQL, and Make.com automation.
+Responsive educational platform developed using React, PHP, MySQL and Make.com.
 
-### Highlights
+`React` `PHP` `MySQL` `Make.com` `REST APIs`
 
-- React frontend
-- Responsive UI
-- PHP REST API
-- MySQL database
-- Contact enquiry system
-- Make.com automation
-- Automated email notifications
-- Excel contact data storage
-- Production deployment
+- ⚛️ React frontend
+- 📱 Responsive UI
+- 🔗 PHP REST API
+- 🗄️ MySQL database
+- 📩 Contact enquiry system
+- 🤖 Make.com workflow automation
+- 📧 Automated email notifications
+- 📊 Excel contact-data storage
+- 🚀 Production deployment
 
 🌐 **Live:** https://thekrishnaacademy.com/
 
-📂 **Repository:** [the-krishna-academy](https://github.com/YOUR_USERNAME/the-krishna-academy)
+📂 **Repository:** `the-krishna-academy`
 
 ---
 
@@ -159,16 +183,8 @@ A responsive educational website developed for a client using React, PHP, MySQL,
 
 **Employee Timesheet & Payroll Application**
 
-A business application developed using Java and Spring Boot with MySQL.
+`Java` `Spring Boot` `JPA` `Hibernate` `MySQL` `REST APIs`
 
-### Highlights
-
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- REST APIs
 - Employee timesheet management
 - Leave management
 - Payroll functionality
@@ -176,61 +192,160 @@ A business application developed using Java and Spring Boot with MySQL.
 - PDF generation
 - Production deployment
 
-📂 **Repository:** [tidy-timesheet](https://github.com/YOUR_USERNAME/tidy-timesheet)
+📂 **Repository:** `tidy-timesheet`
 
 ---
 
-## 💰 Expense Tracker
+## 📱 Expense Tracker
 
 **React Native Expense Management Application**
 
-A mobile application developed using React Native and Firebase.
+`React Native` `Firebase` `Cloudinary` `FCM`
 
-### Highlights
-
-- React Native
-- Firebase Realtime Database
-- Cloudinary
-- Firebase Cloud Messaging
 - Expense management
 - Partner management
+- Firebase Realtime Database
+- Push notifications
 - PDF generation
 
-📂 **Repository:** [expense-tracker](https://github.com/YOUR_USERNAME/expense-tracker)
+📂 **Repository:** `expense-tracker`
 
 ---
 
 # 🤖 AI & Business Automation
 
-Alongside frontend development, I build automation workflows that connect applications, APIs, business tools, and AI services.
-
-### Automation Areas
-
-- 🔄 Workflow Automation
-- 🤖 AI-powered workflows
-- 🔗 API & Webhook Integration
-- 📊 Automated Data Processing
-- 📥 Lead Generation
-- 🎯 Lead Qualification
-- 📧 Automated Outreach
-- 📑 Google Sheets / Excel Automation
-- 🧠 Gemini API Integration
-
-### Example Automation Architecture
+I build automation systems that connect **web applications, APIs, AI services, spreadsheets, and business workflows**.
 
 ```text
-Lead Source
-     ↓
+Lead / Data Source
+        ↓
 Data Extraction
-     ↓
+        ↓
 Data Cleaning
-     ↓
+        ↓
 AI Analysis
-     ↓
+        ↓
 Lead Qualification
-     ↓
+        ↓
 Lead Scoring
-     ↓
+        ↓
 Google Sheets / Database
-     ↓
-Automated Outreach
+        ↓
+Automated Action
+```
+
+**Automation Areas**
+
+- 🤖 AI-powered workflows
+- 🔗 API & Webhook integrations
+- 📥 Lead generation
+- 🎯 Lead qualification
+- 📊 Automated data processing
+- 📧 Automated outreach
+- 📑 Google Sheets / Excel automation
+- 🧠 Gemini API integration
+- 🔄 n8n workflows
+- ⚡ Make.com scenarios
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruban5775&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruban5775&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ruban5775&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruban5775&hide_border=true&area=true&custom_title=Ruban%27s%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+> Optional animated contribution snake. Enable it later with a GitHub Action.
+
+<!--
+<img src="https://raw.githubusercontent.com/ruban5775/ruban5775/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+-->
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                  CURRENTLY BUILDING                  │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ⚛️  Advanced React & Frontend Engineering           │
+│  🔗  REST API & Backend Integration                  │
+│  🤖  AI-Powered Business Automation                  │
+│  🧠  AI Agent & Workflow Development                │
+│  ☁️  Cloud Deployment & Infrastructure               │
+│  🚀  Production-Ready Digital Products              │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💼 What I Build
+
+### 🎨 Frontend
+Responsive React applications · Modern UI/UX · Component architecture · Dashboards · Admin panels · API-integrated applications
+
+### 🔗 Full-Stack Integration
+React + PHP · React + Java/Spring Boot · REST APIs · MySQL · Firebase · Cloudinary · Third-party APIs
+
+### 🤖 Business Automation
+n8n · Make.com · AI API integration · Webhooks · Lead generation · Automated notifications · Business process automation
+
+---
+
+# 🌱 Development Philosophy
+
+```text
+Build → Test → Improve → Automate → Deploy
+```
+
+I focus on building software that is not only visually polished, but also **functional, maintainable, integrated, and useful in real-world business environments**.
+
+---
+
+# 📫 Let's Connect
+
+I'm open to opportunities in:
+
+**Frontend Development · React · Full-Stack Web Development · AI Automation · Software Engineering**
+
+<div align="center">
+
+<a href="https://persyntra.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-persyntra.com-1A73E8?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Building interfaces. Connecting systems. Automating possibilities.**
+
+</div>
