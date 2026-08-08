@@ -198,21 +198,66 @@ Responsive educational platform developed using React, PHP, MySQL and Make.com.
 
 ---
 
-## 📱 Expense Tracker
+---
 
-**React Native Expense Management Application**
+# 🤖 Featured Automation Projects
 
-`React Native` `Firebase` `Cloudinary` `FCM`
+## 🗺️ Tamil Nadu Business Lead Scraper
 
-- Expense management
-- Partner management
-- Firebase Realtime Database
-- Push notifications
-- PDF generation
+**Zero-Cost Business Lead Generation Workflow**
 
-📂 **Repository:** `expense-tracker`
+An **n8n-based automation workflow** designed to automate business lead collection across **Tamil Nadu**, with a focus on building the workflow using free or zero-cost tools and services.
+
+`n8n` `Webhooks` `Data Extraction` `Data Processing` `Lead Generation` `Automation`
+
+### ✨ Key Features
+
+- 🗺️ Business lead collection across Tamil Nadu
+- 🎯 Supports location and business-category based lead research
+- 💰 Designed around a **zero-cost automation approach**
+- 🔄 Automated lead collection and data processing
+- 📊 Structured business information output
+- ⚡ Reduces repetitive manual lead research
+- 🔌 Workflow-based API/data integrations
+- 📈 Can be extended for different business categories and locations
+
+### 🎯 Use Cases
+
+The workflow can support lead generation for services such as:
+
+- Website development
+- Digital marketing
+- AI automation
+- Business process automation
+- Software solutions
+- Local business outreach
+
+📂 **Repository:** `n8n-leads-scraper-tamil-nadu`
 
 ---
+
+## 📄 AI Resume & Job Description Analyzer
+
+**AI-Powered Resume Matching & Cover Letter Generation Workflow**
+
+An **n8n-based AI workflow** that analyzes a candidate's resume against a job description, evaluates the match, identifies relevant skills and gaps, and generates a personalized cover letter.
+
+`n8n` `AI` `LLM` `Resume Analysis` `Job Description Analysis` `Workflow Automation`
+
+### ✨ Key Features
+
+- 📄 Resume analysis
+- 💼 Job description analysis
+- 🎯 Resume-to-job match scoring
+- 🔍 Skill and requirement comparison
+- 📊 Identifies potential skill gaps
+- 🧠 AI-powered candidate/job analysis
+- ✍️ Personalized cover letter generation
+- 🔄 End-to-end workflow automation
+- ⚡ Reduces manual resume and job-description comparison
+
+📂 **Repository:** `n8n-ai-resume-analyzer`
+
 
 # 🤖 AI & Business Automation
 
