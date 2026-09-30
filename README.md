@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Ruban M
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=760&lines=React+Frontend+Developer;Full-Stack+Web+Application+Developer;AI+%26+Business+Automation+Builder;Connecting+Systems.+Automating+Possibilities." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=760&lines=React+Frontend+Developer;Full-Stack+Application+Developer;AI+%26+Business+Automation+Builder;Connecting+Systems.+Automating+Possibilities." alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **React Frontend Developer** focused on building modern, responsive, production-ready web applications.
+I'm a **Full-Stack / React Frontend Developer** focused on building modern, responsive, production-ready web applications.
 
 My core strength is frontend development with **React and JavaScript**, with practical experience across **PHP, REST APIs, MySQL, cloud services, third-party integrations, and AI-powered workflow automation**.
 
